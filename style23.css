@@ -1,0 +1,11 @@
+img {
+    height: 70%;
+    width: 70%;
+}
+body {
+    text-align: center;
+    font-family: Calibri;
+    background-color: #f38c8f;
+    color: #020202;
+    text-size-adjust: 200;
+}
